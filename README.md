@@ -44,3 +44,12 @@ A API contém os seguintes endpoints para gerenciar os dados dos animais:
 - **GET /api/Animais**: Consultar todos os animais e respectivo adotante
 - **PATCH /api/Animais/{id}**: Atualizar informações de um animal e respectivo adotante
 - **DELETE /api/Animais/{id}**: Excluir um animal e respectivo adotante
+
+![Início](assets/Inicio.png)
+![Navegação](assets/Navegacao.png)
+![Responsivo](assets/Responsivo.png)
+![Formulário](assets/Formulario.png)
+![Tabela de dados](assets/TabeladeDados.png)
+![Editar](assets/EditarTabeladeDados.png)
+![Deletar](assets/DeletarTabeladeDados.png)
+![Alerta](assets/Alerta.png)
