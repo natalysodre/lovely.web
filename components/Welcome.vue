@@ -37,7 +37,7 @@
 
 .fontTitleStyle {
   color: #ffffff;
-  font-size: 55px;
+  font-size: 50px;
   text-shadow: 2px 2px 5px #000000;
   text-align: right;
   font-weight: 700;
